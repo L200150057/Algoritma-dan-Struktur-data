@@ -19,7 +19,7 @@
   ```
   2. Macam-macam fungsi matematik yang terdapat dalam module "math" :
   
-  | Function        | Description           |
+    | Function        | Description           |
     | ------------- |-------------|
     | ceil(x)      | Returns the smallest integer greater than or equal to x. |
     | copysign(x, y)      | Returns x with the sign of y      |
